@@ -7,3 +7,12 @@ The objective of this project is to leverage comprehensive data analysis to enha
 
 Problem Statement:
 The Pennsylvania Lottery seeks to improve its financial performance and streamline its resource allocation and promotional efforts. The challenge lies in understanding the complex dynamics of ticket sales, prizes paid, and retailer commissions across different counties and fiscal years. Additionally, the lottery needs to identify seasonal patterns and predict future retailer commissions to ensure efficient financial planning.
+
+Tasks using the provided dataset:
+
+- Q1. What is the average company profit?
+- Q2. Examine how ticket sales, prizes paid, and retailer commissions have changed over different fiscal years.
+- Q3. Identify any seasonal patterns or anomalies.
+- Q4. Predict retailer commissions based on ticket sales and other relevant variables.
+- Q5. Split the data into training and testing sets, train a regression model, and evaluate its performance.
+
